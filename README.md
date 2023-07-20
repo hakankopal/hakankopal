@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hakankopal&show_icons=true">
 
-# Merhaba, ben Hakan Kopal! 
+# Hello, I'm Hakan! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakankopal" alt="hakankopal" /> </p>
 
 [![](https://img.shields.io/github/followers/kopalh?style=social)](https://www.github.com/hakankopal)
